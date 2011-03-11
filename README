@@ -1,0 +1,14 @@
+jQuery-bars plugin
+Copyright 2011 Bernat Ràfales Mulet (brafales@gmail.com)
+http://www.thinkingeek.com
+
+This is a simple jQuery plugin based on the jQuery UI Progressbar widget.
+It allows you to create horizontal colored bars which can be animated, and
+allowing you to determine the width of the bar, the background and foreground
+colors, and the animation duration.
+This plugin can be useful, for example, to draw bars in a bar chart fashion.
+It differs from Progressbar in the fact that allows you to animate the bar
+and does not depend on jQuery UI, so you can choose your own css for it.
+To see usage examples, look at the test folder.
+
+It has been tested with jQuery 1.4 and 1.5
